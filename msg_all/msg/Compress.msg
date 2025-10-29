@@ -1,0 +1,3 @@
+std_msgs/Header header
+std_msgs/UInt8MultiArray y_strings
+std_msgs/UInt8MultiArray z_strings
