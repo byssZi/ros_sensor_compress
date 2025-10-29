@@ -1,0 +1,6 @@
+[submodule "rcpcc"]
+	path = rcpcc
+	url = https://github.com/byssZi/ros_pointcloud_compress.git
+[submodule "ros_h264_streamer"]
+	path = ros_h264_streamer
+	url = https://github.com/byssZi/ros_image_compress.git
